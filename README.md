@@ -1,5 +1,11 @@
-### Hi there 👋
-
+## Hi there, I'm Gleb 👋
+### General Information
+- **Junior Developer** from **Russia**
+- Stack: C#, Kotlin
+- Current status: **Studying**
+- Looking for: **Job**
+### Business 
+- **Mail**: `sh4r1kwork@gmail.com`
 <!--
 **SH4R1K/SH4R1K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
