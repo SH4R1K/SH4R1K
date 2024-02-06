@@ -1,7 +1,7 @@
 ## Hi there, I'm Gleb 👋
 ### General Information
 - **Junior Developer** from **Russia**
-- Stack: C#, Kotlin
+- Stack: C#
 - Current status: **Studying**
 - Looking for: **Job**
 ### Business 
