@@ -1,4 +1,7 @@
-# Hi there, I'm Gleb 👋
+<h1 align="center">
+   Hi there, I'm Gleb 👋
+</h1>
+
 ## 📝General Information
 - **Junior Developer** from **Russia**
 - Current status: **Studying**
@@ -24,7 +27,7 @@
 - Modding🔧
 
 ## 🌆 Top langs
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sh4r1k&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sh4r1k&theme=dark&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **SH4R1K/SH4R1K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
