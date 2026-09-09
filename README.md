@@ -26,6 +26,8 @@
 - Videogames🎮
 - Modding🔧
 
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/SH4R1K?theme=dark&font=Actor&ext=heatmap)
 <!-- ## 🌆 Top langs
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sh4r1k&theme=dark&layout=donut)](https://github.com/anuraghazra/github-readme-stats) -->
   <!-- <image style="height: auto; width: 500px" src="https://aleatori.cat/random"></image> -- >
